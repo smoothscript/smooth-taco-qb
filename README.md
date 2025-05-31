@@ -39,8 +39,3 @@ A complete FiveM QBCore Taco Job script with full business management, immersive
 
 Join our Discord for support, updates, and custom requests:  
 [🔗 https://discord.gg/sZcPPR2e2X](https://discord.gg/sZcPPR2e2X)
-
----
-
-**Made by SmoothScript**  
-Premium FiveM scripts for serious roleplay servers.
